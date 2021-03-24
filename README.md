@@ -1,3 +1,8 @@
+## Fork
+
+This is a fork of the base [clickhouse_exporter](https://github.com/Clickhouse/clickhouse_exporter) repository, with a minor fix to enable it to build properly, that is published to a [public Docker image](https://hub.docker.com/r/jwoglom/clickhouse_exporter) (jwoglom/clickhouse_exporter on Docker Hub).
+
+
 # Clickhouse Exporter for Prometheus
 
 [![Build Status](https://travis-ci.org/Percona-Lab/clickhouse_exporter.svg?branch=master)](https://travis-ci.org/Percona-Lab/clickhouse_exporter)
